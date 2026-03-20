@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://laurensessa.github.io/ls-fineart/vermont-mountain.html",
+            "url": "https://laurensessa.github.io/ls-fineart/vermont-mountain.html",
+            "title": "Vermont Mountain",
+            "summary": "SOLD 24\" x 18\" | Acrylic on Canvas | 2023",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">SOLD</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\">24\" x 18\" | Acrylic on Canvas | 2023</p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/8/VermontMountain_18x24_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape"
+            ],
+            "date_published": "2023-01-30T19:34:00-05:00",
+            "date_modified": "2026-03-16T20:30:05-04:00"
+        },
+        {
             "id": "https://laurensessa.github.io/ls-fineart/naxos-devotion.html",
             "url": "https://laurensessa.github.io/ls-fineart/naxos-devotion.html",
             "title": "Naxos Devotion",
@@ -59,6 +75,71 @@
             ],
             "date_published": "2022-07-17T19:33:00-04:00",
             "date_modified": "2026-03-19T22:31:46-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/rainbow-bridge-in-winter.html",
+            "url": "https://laurensessa.github.io/ls-fineart/rainbow-bridge-in-winter.html",
+            "title": "Rainbow Bridge in Winter",
+            "summary": "Please Inquire for Price 36\" x 24\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\">36\" x 24\" | Water Mixable Oils on Canvas | 2022</p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2023 Maryland Federation of Art Virtual Juried Show \"Street Scenes\"</strong></p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2022 Overlea ArtsFest Juried Show | Honorable Mention 2D Representational Category</strong></p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2022 Overlea ArtsFest People's Choice Award | 1st Place 2D Representational Category</strong></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/9/RainbowBridgeinWinter_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape",
+                   "Exhibited"
+            ],
+            "date_published": "2022-03-30T20:30:00-04:00",
+            "date_modified": "2026-03-19T22:25:07-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/rainbow-bridge-at-sunset-2.html",
+            "url": "https://laurensessa.github.io/ls-fineart/rainbow-bridge-at-sunset-2.html",
+            "title": "Rainbow Bridge at Sunset",
+            "summary": "Please Inquire for Price 18\" x 7.5\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">18\" x 7.5\" | Water Mixable Oils on Canvas Paper | 2022 |  Frame available upon request</span></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/10/RainbowBridgeAtSunset_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape"
+            ],
+            "date_published": "2022-03-16T20:31:00-04:00",
+            "date_modified": "2026-03-16T20:54:27-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/baltimore-street.html",
+            "url": "https://laurensessa.github.io/ls-fineart/baltimore-street.html",
+            "title": "Baltimore Street (Wonky Baltimore)",
+            "summary": "SOLD 10\" x 8\" | Acrylic on Canvas | 2022",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">SOLD</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">10\" x 8\" | Acrylic on Canvas | 2022</span></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/12/BaltimoreStreet_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape"
+            ],
+            "date_published": "2022-01-30T20:34:00-05:00",
+            "date_modified": "2026-03-19T22:09:01-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/pigtown-at-sunset.html",
+            "url": "https://laurensessa.github.io/ls-fineart/pigtown-at-sunset.html",
+            "title": "Pigtown at Sunset",
+            "summary": "Please Inquire for Price 20\" x 16\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">20\" x 16\" | Water Mixable Oils on Canvas | 2022</span></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/11/PigtownAtSunset_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape"
+            ],
+            "date_published": "2022-01-20T20:33:00-05:00",
+            "date_modified": "2026-03-19T22:09:16-04:00"
         },
         {
             "id": "https://laurensessa.github.io/ls-fineart/sunset-over-sandy-point.html",
