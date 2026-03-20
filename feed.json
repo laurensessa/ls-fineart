@@ -10,5 +10,89 @@
         "name": "Lauren"
     },
     "items": [
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/naxos-devotion.html",
+            "url": "https://laurensessa.github.io/ls-fineart/naxos-devotion.html",
+            "title": "Naxos Devotion",
+            "summary": "Currently Not for Sale 48\" x 36\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Currently Not for Sale</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\">48\" x 36\" | Water Mixable Oils on Canvas | 2022</p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2023 Overlea Arts Fest People's Choice Award | 1st Place 2D Representational Category</strong></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/1/NaxosDevotion_Sm-2.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape",
+                   "Exhibited"
+            ],
+            "date_published": "2022-11-29T18:58:00-05:00",
+            "date_modified": "2026-03-19T22:15:33-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/tulip-on-the-mantle.html",
+            "url": "https://laurensessa.github.io/ls-fineart/tulip-on-the-mantle.html",
+            "title": "Tulip on the Mantle",
+            "summary": "Please Inquire for Price 12\" x 16\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\">12\" x 16\" | Water Mixable Oils on Canvas | 2022 | Frame available upon request</p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/5/TulipontheMantel.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Still Life"
+            ],
+            "date_published": "2022-07-26T19:25:00-04:00",
+            "date_modified": "2026-03-19T22:08:11-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/rawlings-oranges.html",
+            "url": "https://laurensessa.github.io/ls-fineart/rawlings-oranges.html",
+            "title": "Rawlings Oranges",
+            "summary": "Please Inquire for Price 24\" x 24\" | Water Mixable Oils on&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">24\" x 24\" | Water Mixable Oils on Canvas | 2022</span></p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2021 Overlea ArtsFest | Exhibited</strong></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/7/RawlingsOranges_Sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Still Life",
+                   "Exhibited"
+            ],
+            "date_published": "2022-07-17T19:33:00-04:00",
+            "date_modified": "2026-03-19T22:31:46-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/sunset-over-sandy-point.html",
+            "url": "https://laurensessa.github.io/ls-fineart/sunset-over-sandy-point.html",
+            "title": "Sunset Over Sandy Point",
+            "summary": "SOLD 30\" x 15\" | Acrylic on Canvas | 2020 2021 Overlea&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">SOLD</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">30\" x 15\" | Acrylic on Canvas | 2020</span></p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2021 Overlea ArtsFest People's Choice Award | 1st Place 2D Representational Category</strong></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/2/SunsetOverSandyPoint_Sm-2.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Landscape",
+                   "Exhibited"
+            ],
+            "date_published": "2020-08-20T18:59:00-04:00",
+            "date_modified": "2026-03-19T22:22:54-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/care.html",
+            "url": "https://laurensessa.github.io/ls-fineart/care.html",
+            "title": "Care",
+            "summary": "SOLD 30\" x 36\" | Acrylic on Canvas | 2020 2021 Overlea&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">SOLD</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">30\" x 36\" | Acrylic on Canvas | 2020</span></p>\n<p tabindex=\"0\" data-type=\"text\"><strong>2021 Overlea ArtsFest People's Choice Award | 2nd Place 2D Abstract Category</strong></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/3/Care_Sm-2.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "Exhibited",
+                   "Abstract"
+            ],
+            "date_published": "2020-02-09T18:59:00-05:00",
+            "date_modified": "2026-03-19T22:30:39-04:00"
+        }
     ]
 }
