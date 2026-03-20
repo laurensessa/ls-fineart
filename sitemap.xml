@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://laurensessa.github.io/ls-fineart/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://laurensessa.github.io/ls-fineart/</loc>
+</url>
+<url>
+<loc>https://laurensessa.github.io/ls-fineart/about-the-artist.html</loc>
+<lastmod>2026-03-17T22:24:58-04:00</lastmod>
+<image:image>
+<image:loc>https://laurensessa.github.io/ls-fineart/media/posts/4/1BF0A05D-02F2-4DFB-BF63-B2C026E60C58_1_105_c-2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://laurensessa.github.io/ls-fineart/contact.html</loc>
+<lastmod>2026-03-17T22:09:31-04:00</lastmod>
+<image:image>
+<image:loc>https://laurensessa.github.io/ls-fineart/media/posts/19/3239C260-BAA9-42E5-87E6-DEE076BBFD94.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
