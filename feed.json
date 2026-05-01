@@ -176,7 +176,7 @@
                    "Exhibited"
             ],
             "date_published": "2024-02-11T14:30:00-05:00",
-            "date_modified": "2026-04-14T20:14:10-04:00"
+            "date_modified": "2026-05-01T10:39:44-04:00"
         },
         {
             "id": "https://laurensessa.github.io/ls-fineart/chanticleer-in-the-rain.html",
@@ -619,6 +619,23 @@
             ],
             "date_published": "2021-08-09T21:32:00-04:00",
             "date_modified": "2026-04-14T20:17:31-04:00"
+        },
+        {
+            "id": "https://laurensessa.github.io/ls-fineart/woman-abstracted.html",
+            "url": "https://laurensessa.github.io/ls-fineart/woman-abstracted.html",
+            "title": "Woman Abstracted",
+            "summary": "Please Inquire for Price 16\" x 20\" | Acrylic on Canvas |&hellip;",
+            "content_html": "<p class=\"kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs\" tabindex=\"0\" data-type=\"text\">Please Inquire for Price</p>\n<p class=\"kv-ee-section-description kv-ee-body--md\" tabindex=\"0\" data-type=\"text\"><span class=\"cstm-fnt\">16\" x 20\" | Acrylic on Canvas | 2021</span></p>",
+            "image": "https://laurensessa.github.io/ls-fineart/media/posts/43/WomanAbstracted_20x16_Acrylic_2021sm.jpg",
+            "author": {
+                "name": "Lauren"
+            },
+            "tags": [
+                   "|  For Sale  |",
+                   "Abstract"
+            ],
+            "date_published": "2021-05-01T10:39:00-04:00",
+            "date_modified": "2026-05-01T10:41:28-04:00"
         },
         {
             "id": "https://laurensessa.github.io/ls-fineart/sunset-over-sandy-point.html",

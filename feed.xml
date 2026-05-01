@@ -3,7 +3,7 @@
     <title>Lauren Sessa Fine Art</title>
     <link href="https://laurensessa.github.io/ls-fineart/feed.xml" rel="self" />
     <link href="https://laurensessa.github.io/ls-fineart" />
-    <updated>2026-04-14T20:32:17-04:00</updated>
+    <updated>2026-05-01T10:41:28-04:00</updated>
     <author>
         <name>Lauren</name>
     </author>
@@ -952,6 +952,32 @@
                     <p><img src="https://laurensessa.github.io/ls-fineart/media/posts/28/CapeCharlesGoldenHour_MixedMedia_Aug092021_SM2.webp" class="type:primaryImage" alt="" /></p>
                 <p class="kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs" tabindex="0" data-type="text">Please Inquire For Price</p>
 <p class="kv-ee-section-description kv-ee-body--md" tabindex="0" data-type="text"><span class="cstm-fnt">14" x 11" | Mixed Media on Paper | 2021</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Woman Abstracted</title>
+        <author>
+            <name>Lauren</name>
+        </author>
+        <link href="https://laurensessa.github.io/ls-fineart/woman-abstracted.html"/>
+        <id>https://laurensessa.github.io/ls-fineart/woman-abstracted.html</id>
+        <media:content url="https://laurensessa.github.io/ls-fineart/media/posts/43/WomanAbstracted_20x16_Acrylic_2021sm.jpg" medium="image" />
+            <category term="|  For Sale  |"/>
+            <category term="Abstract"/>
+
+        <updated>2021-05-01T10:39:00-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://laurensessa.github.io/ls-fineart/media/posts/43/WomanAbstracted_20x16_Acrylic_2021sm.jpg" alt="" />
+                    Please Inquire for Price 16" x 20" | Acrylic on Canvas |&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://laurensessa.github.io/ls-fineart/media/posts/43/WomanAbstracted_20x16_Acrylic_2021sm.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="kv-ee-section-subtitle kv-ee-pre-header kv-ee-title--xs" tabindex="0" data-type="text">Please Inquire for Price</p>
+<p class="kv-ee-section-description kv-ee-body--md" tabindex="0" data-type="text"><span class="cstm-fnt">16" x 20" | Acrylic on Canvas | 2021</span></p>
             ]]>
         </content>
     </entry>
